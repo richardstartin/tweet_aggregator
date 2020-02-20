@@ -1,0 +1,245 @@
+﻿tweet_id,tweet_source,user_screen_name,user_name,handle,mentioned_name,url,base_url,url_obfuscated
+1229854146452447233,Twitter for Android,JVMPerformance,JVM Performance Channel,alblue,Alex Blewitt 🇬🇧🇪🇺 #FBPE,https://alblue.bandlem.com/index.html,alblue.bandlem.com,False
+1228600349944053764,Twitter Web App,JVMPerformance,JVM Performance Channel,TheRealClanger,Christoph Langer,https://fosdem.org/2020/schedule/event/npes,fosdem.org,False
+1228600349944053764,Twitter Web App,JVMPerformance,JVM Performance Channel,fosdem,FOSDEM,https://fosdem.org/2020/schedule/event/npes,fosdem.org,False
+1228208419129065473,Twitter Web App,JVMPerformance,JVM Performance Channel,kuksenk0,Sergey Kuksenko,https://www.infoq.com/presentations/java-valhalla-inline-types,infoq.com,False
+1228208419129065473,Twitter Web App,JVMPerformance,JVM Performance Channel,InfoQ,InfoQ,https://www.infoq.com/presentations/java-valhalla-inline-types,infoq.com,False
+1227488320445284352,Twitter Web App,JVMPerformance,JVM Performance Channel,rkennke,Roman Kennke,https://fosdem.org/2020/schedule/event/shenandoah/,fosdem.org,False
+1227488320445284352,Twitter Web App,JVMPerformance,JVM Performance Channel,fosdem,FOSDEM,https://fosdem.org/2020/schedule/event/shenandoah/,fosdem.org,False
+1226084237390024704,Twitter Web App,JVMPerformance,JVM Performance Channel,fosdem,FOSDEM,https://fosdem.org/2020/schedule/event/g1/,fosdem.org,False
+1226084237390024704,Twitter Web App,JVMPerformance,JVM Performance Channel,kstefanj,Stefan Johansson,https://fosdem.org/2020/schedule/event/g1/,fosdem.org,False
+1225680000990363649,Twitter Web App,JVMPerformance,JVM Performance Channel,crgracie,crgracie,https://www.youtube.com/watch?v=p1MhRBYS-k0,youtube.com,False
+1223944569756246017,Twitter for Android,JVMPerformance,JVM Performance Channel,pkhuong,Paul Khuong,https://pvk.ca/Blog/2020/02/01/too-much-locality-for-store-forwarding/,pvk.ca,False
+1223557242051579904,Twitter for Android,JVMPerformance,JVM Performance Channel,crgracie,crgracie,https://mail.openjdk.java.net/pipermail/hotspot-compiler-dev/2020-January/036835.html,mail.openjdk.java.net,False
+1222412766163742721,Twitter for Android,JVMPerformance,JVM Performance Channel,no mentions,no mentions,https://blog.oio.de/2020/01/13/high-performance-at-low-cost-choose-the-best-jvm-and-the-best-garbage-collector-for-your-needs,blog.oio.de,False
+1222070340253294592,Twitter for Android,JVMPerformance,JVM Performance Channel,rafaelcodes,Rafael Winterhalter,https://rafael.codes/openjdk/,rafael.codes,False
+1222070340253294592,Twitter for Android,JVMPerformance,JVM Performance Channel,OpenJDK,OpenJDK,https://rafael.codes/openjdk/,rafael.codes,False
+1221877725553725442,Twitter for Android,JVMPerformance,JVM Performance Channel,graalvm,GraalVM,https://link.medium.com/cRFXjH46A3,link.medium.com,False
+1220273011825225728,Twitter for Android,JVMPerformance,JVM Performance Channel,pingtimeout,Pierre Laporte,https://www.pingtimeout.fr/posts/2020-01-23-trace-humongous-allocations-with-bpf/,pingtimeout.fr,False
+1219643383968387073,Twitter for Android,JVMPerformance,JVM Performance Channel,siddcoder,Siddharth Teotia,https://loonytek.com/2020/01/20/long-jvm-pauses-without-gc/,loonytek.com,False
+1219005870660640774,Twitter for Android,JVMPerformance,JVM Performance Channel,jerrinot,Jaromir Hamala,https://www.javaadvent.com/2019/12/measuring-time-from-java-to-kernel-and-back.html,javaadvent.com,False
+1218288744953974785,Twitter for Android,JVMPerformance,JVM Performance Channel,bercut2000,Dmitry Alexandrov ✈️,https://blogs.oracle.com/javamagazine/programming-the-gpu-in-java,blogs.oracle.com,False
+1218288744953974785,Twitter for Android,JVMPerformance,JVM Performance Channel,oraclemagazine,Oracle Magazine,https://blogs.oracle.com/javamagazine/programming-the-gpu-in-java,blogs.oracle.com,False
+1218112867720998912,Twitter Web App,JVMPerformance,JVM Performance Channel,chriswhocodes,Chris Newland,https://github.com/AdoptOpenJDK/jitwatch,github.com,False
+1218112401847070720,Twitter Web App,JVMPerformance,JVM Performance Channel,shipilev,Aleksey Shipilëv,https://shipilev.net/jvm/anatomy-quarks/25-implicit-null-checks,shipilev.net,False
+1218112401847070720,Twitter Web App,JVMPerformance,JVM Performance Channel,java,Java,https://shipilev.net/jvm/anatomy-quarks/25-implicit-null-checks,shipilev.net,False
+1217702348228898817,Twitter for Android,JVMPerformance,JVM Performance Channel,kuksenk0,Sergey Kuksenko,http://cr.openjdk.java.net/~skuksenko/valhalla/hashmaps/hash.html,cr.openjdk.java.net,False
+1217297920925601792,Twitter for Android,JVMPerformance,JVM Performance Channel,pingtimeout,Pierre Laporte,https://www.pingtimeout.fr/posts/2020-01-12-limit-vm-bandwidth/,pingtimeout.fr,False
+1217016285114126336,Twitter Web App,JVMPerformance,JVM Performance Channel,CGuntur,Chandra Guntur,https://www.youtube.com/watch?v=xxZCtlgem28,youtube.com,False
+1217016285114126336,Twitter Web App,JVMPerformance,JVM Performance Channel,TheDonRaab,Donald Raab,https://www.youtube.com/watch?v=xxZCtlgem28,youtube.com,False
+1217016285114126336,Twitter Web App,JVMPerformance,JVM Performance Channel,OracleCodeOne,Oracle Code One,https://www.youtube.com/watch?v=xxZCtlgem28,youtube.com,False
+1216654902564458496,Twitter Web App,JVMPerformance,JVM Performance Channel,shipilev,Aleksey Shipilëv,no link,no link,False
+1216654902564458496,Twitter Web App,JVMPerformance,JVM Performance Channel,cliff_click,Cliff Click,no link,no link,False
+1216654902564458496,Twitter Web App,JVMPerformance,JVM Performance Channel,PeterLawrey,Peter Lawrey,no link,no link,False
+1216654902564458496,Twitter Web App,JVMPerformance,JVM Performance Channel,mjpt777,Martin Thompson,no link,no link,False
+1216654902564458496,Twitter Web App,JVMPerformance,JVM Performance Channel,giltene,Gil Tene,no link,no link,False
+1216654902564458496,Twitter Web App,JVMPerformance,JVM Performance Channel,AndreiPangin,Andrei Pangin,no link,no link,False
+1216654902564458496,Twitter Web App,JVMPerformance,JVM Performance Channel,kuksenk0,Sergey Kuksenko,no link,no link,False
+1216654902564458496,Twitter Web App,JVMPerformance,JVM Performance Channel,iwan0www,Vladimir Ivanov,no link,no link,False
+1216654902564458496,Twitter Web App,JVMPerformance,JVM Performance Channel,ionutbalosin,Ionut Balosin,no link,no link,False
+1216654902564458496,Twitter Web App,JVMPerformance,JVM Performance Channel,chriswhocodes,Chris Newland,no link,no link,False
+1216654902564458496,Twitter Web App,JVMPerformance,JVM Performance Channel,mon_beck,Monica Beckwith,no link,no link,False
+1216654902564458496,Twitter Web App,JVMPerformance,JVM Performance Channel,kcpeppe,kcpeppe,no link,no link,False
+1216654902564458496,Twitter Web App,JVMPerformance,JVM Performance Channel,nitsanw,Nitsan Wakart 👺,no link,no link,False
+1216654902564458496,Twitter Web App,JVMPerformance,JVM Performance Channel,christhalinger,Chris Thalinger,no link,no link,False
+1216654902564458496,Twitter Web App,JVMPerformance,JVM Performance Channel,jpbempel,Jean-Philippe Bempel,no link,no link,False
+1216654902564458496,Twitter Web App,JVMPerformance,JVM Performance Channel,cl4es,Claes Redestad,no link,no link,False
+1216654902564458496,Twitter Web App,JVMPerformance,JVM Performance Channel,tstuefe,Thomas Stuefe,no link,no link,False
+1216654902564458496,Twitter Web App,JVMPerformance,JVM Performance Channel,volker_simonis,Volker Simonis,no link,no link,False
+1216654902564458496,Twitter Web App,JVMPerformance,JVM Performance Channel,heinzkabutz,Heinz Kabutz,no link,no link,False
+1216654902564458496,Twitter Web App,JVMPerformance,JVM Performance Channel,epickrram,Mark Price,no link,no link,False
+1216300235049381888,Twitter for Android,JVMPerformance,JVM Performance Channel,shipilev,Aleksey Shipilëv,https://youtu.be/VCeHkcwfF9Q,youtu.be,False
+1216300235049381888,Twitter for Android,JVMPerformance,JVM Performance Channel,Devoxx,Devoxx,https://youtu.be/VCeHkcwfF9Q,youtu.be,False
+1216300235049381888,Twitter for Android,JVMPerformance,JVM Performance Channel,java,Java,https://youtu.be/VCeHkcwfF9Q,youtu.be,False
+1215620092710588418,Twitter Web App,JVMPerformance,JVM Performance Channel,ionutbalosin,Ionut Balosin,https://ionutbalosin.com/2020/01/hotspot-jvm-performance-tuning-guidelines,ionutbalosin.com,False
+1215620092710588418,Twitter Web App,JVMPerformance,JVM Performance Channel,java,Java,https://ionutbalosin.com/2020/01/hotspot-jvm-performance-tuning-guidelines,ionutbalosin.com,False
+1215620092710588418,Twitter Web App,JVMPerformance,JVM Performance Channel,OpenJDK,OpenJDK,https://ionutbalosin.com/2020/01/hotspot-jvm-performance-tuning-guidelines,ionutbalosin.com,False
+1215620092710588418,Twitter Web App,JVMPerformance,JVM Performance Channel,adoptopenjdk,AdoptOpenJDK,https://ionutbalosin.com/2020/01/hotspot-jvm-performance-tuning-guidelines,ionutbalosin.com,False
+1214973231351894022,Twitter for Android,JVMPerformance,JVM Performance Channel,mon_beck,Monica Beckwith,https://youtu.be/Qli_Jttro6Y,youtu.be,False
+1214973231351894022,Twitter for Android,JVMPerformance,JVM Performance Channel,java,Java,https://youtu.be/Qli_Jttro6Y,youtu.be,False
+1210245885621391361,Twitter Web App,JVMPerformance,JVM Performance Channel,OpenJDK,OpenJDK,https://docs.oracle.com/en/java/javase/13/gctuning/,docs.oracle.com,False
+1210245885621391361,Twitter Web App,JVMPerformance,JVM Performance Channel,adoptopenjdk,AdoptOpenJDK,https://docs.oracle.com/en/java/javase/13/gctuning/,docs.oracle.com,False
+1209009541863620608,Twitter Web App,JVMPerformance,JVM Performance Channel,RichardWarburto,Richard Warburton🥓,https://www.youtube.com/watch?v=-aIGErebptM,youtube.com,False
+1209009541863620608,Twitter Web App,JVMPerformance,JVM Performance Channel,kcpeppe,kcpeppe,https://www.youtube.com/watch?v=-aIGErebptM,youtube.com,False
+1209009541863620608,Twitter Web App,JVMPerformance,JVM Performance Channel,Jim__Gough,Jim Gough,https://www.youtube.com/watch?v=-aIGErebptM,youtube.com,False
+1209009541863620608,Twitter Web App,JVMPerformance,JVM Performance Channel,opsian,Opsian,https://www.youtube.com/watch?v=-aIGErebptM,youtube.com,False
+1209009541863620608,Twitter Web App,JVMPerformance,JVM Performance Channel,DevoxxUK,DevoxxUK,https://www.youtube.com/watch?v=-aIGErebptM,youtube.com,False
+1207249004112875520,Twitter Web App,JVMPerformance,JVM Performance Channel,tier1app,Tier1App,https://www.youtube.com/watch?v=6G0E4O5yxks,youtube.com,False
+1207249004112875520,Twitter Web App,JVMPerformance,JVM Performance Channel,jaxlondon,JAX London,https://www.youtube.com/watch?v=6G0E4O5yxks,youtube.com,False
+1206945086673694723,Twitter Web App,JVMPerformance,JVM Performance Channel,ionutbalosin,Ionut Balosin,https://ionutbalosin.com/2019/12/jvm-garbage-collectors-benchmarks-report-19-12/,ionutbalosin.com,True
+1206945086673694723,Twitter Web App,JVMPerformance,JVM Performance Channel,adoptopenjdk,AdoptOpenJDK,https://ionutbalosin.com/2019/12/jvm-garbage-collectors-benchmarks-report-19-12/,ionutbalosin.com,True
+1206945086673694723,Twitter Web App,JVMPerformance,JVM Performance Channel,java,Java,https://ionutbalosin.com/2019/12/jvm-garbage-collectors-benchmarks-report-19-12/,ionutbalosin.com,True
+1206098192871370753,Twitter for Android,JVMPerformance,JVM Performance Channel,jean_bisutti,Jean Bisutti,https://youtu.be/cEkoJL09kKI,youtu.be,False
+1206098192871370753,Twitter for Android,JVMPerformance,JVM Performance Channel,Devoxx,Devoxx,https://youtu.be/cEkoJL09kKI,youtu.be,False
+1205566484661100546,Twitter for Android,JVMPerformance,JVM Performance Channel,unlog1c,Alex Yakushev,https://youtu.be/k4vkd0ahWjQ,youtu.be,False
+1205378002940497921,Twitter for Android,JVMPerformance,JVM Performance Channel,brendangregg,Brendan Gregg,https://youtu.be/16slh29iN1g,youtu.be,False
+1205378002940497921,Twitter for Android,JVMPerformance,JVM Performance Channel,netflix,Netflix US,https://youtu.be/16slh29iN1g,youtu.be,False
+1204866740569694208,Twitter for Android,JVMPerformance,JVM Performance Channel,BrianGoetz,Brian Goetz,https://cr.openjdk.java.net/~briangoetz/valhalla/sov/01-background.html,cr.openjdk.java.net,False
+1200286280485085184,Twitter for Android,JVMPerformance,JVM Performance Channel,ionutbalosin,Ionut Balosin,https://ionutbalosin.com/2019/11/logging-patterns-and-their-performance-impact/,ionutbalosin.com,True
+1199955535648481281,Twitter for Android,JVMPerformance,JVM Performance Channel,no mentions,no mentions,no link,no link,False
+1199585757998002176,Twitter for Android,JVMPerformance,JVM Performance Channel,crgracie,crgracie,https://youtu.be/5Zz0Mg0o5gk,youtu.be,False
+1198524694309330945,Twitter Web App,JVMPerformance,JVM Performance Channel,no mentions,no mentions,https://www.youtube.com/watch?v=JoQN4xoXY5Y,youtube.com,False
+1196321729087516672,Twitter for Android,JVMPerformance,JVM Performance Channel,chvest,Chris Vest,https://medium.com/@chrisvest/the-concurrent-2-trie-67deb2b57ba1,medium.com,False
+1195712557740384256,Twitter for Android,JVMPerformance,JVM Performance Channel,ionutbalosin,Ionut Balosin,https://youtu.be/pnVdUCfgwKo,youtu.be,False
+1195712557740384256,Twitter for Android,JVMPerformance,JVM Performance Channel,OpenJDK,OpenJDK,https://youtu.be/pnVdUCfgwKo,youtu.be,False
+1195298674588430336,Twitter Web App,JVMPerformance,JVM Performance Channel,simonebordet,Simone Bordet,https://www.youtube.com/watch?v=gPzoSmj09l4,youtube.com,False
+1194841816220217346,Twitter for Android,JVMPerformance,JVM Performance Channel,sanhong_li,San-Hong Li,https://youtu.be/HrO4Mgne4xo,youtu.be,False
+1194547906461732864,Twitter for Android,JVMPerformance,JVM Performance Channel,jpbempel,Jean-Philippe Bempel,https://youtu.be/MU8NapbG1IQ,youtu.be,False
+1194547906461732864,Twitter for Android,JVMPerformance,JVM Performance Channel,Devoxx,Devoxx,https://youtu.be/MU8NapbG1IQ,youtu.be,False
+1194003261650587648,Twitter for Android,JVMPerformance,JVM Performance Channel,ionutbalosin,Ionut Balosin,https://ionutbalosin.com/2019/11/jvm-jit-compilers-benchmarks-report-19-11/,ionutbalosin.com,True
+1194003261650587648,Twitter for Android,JVMPerformance,JVM Performance Channel,OpenJDK,OpenJDK,https://ionutbalosin.com/2019/11/jvm-jit-compilers-benchmarks-report-19-11/,ionutbalosin.com,True
+1194003261650587648,Twitter for Android,JVMPerformance,JVM Performance Channel,graalvm,GraalVM,https://ionutbalosin.com/2019/11/jvm-jit-compilers-benchmarks-report-19-11/,ionutbalosin.com,True
+1193788926043066368,Twitter for Android,JVMPerformance,JVM Performance Channel,kcpeppe,kcpeppe,https://youtu.be/_gineh_HcoQ,youtu.be,False
+1193788926043066368,Twitter for Android,JVMPerformance,JVM Performance Channel,Devoxx,Devoxx,https://youtu.be/_gineh_HcoQ,youtu.be,False
+1193788926043066368,Twitter for Android,JVMPerformance,JVM Performance Channel,java,Java,https://youtu.be/_gineh_HcoQ,youtu.be,False
+1193237130786590722,Twitter for Android,JVMPerformance,JVM Performance Channel,BrianGoetz,Brian Goetz,https://youtu.be/iwSCtxMbBLI,youtu.be,False
+1193237130786590722,Twitter for Android,JVMPerformance,JVM Performance Channel,java,Java,https://youtu.be/iwSCtxMbBLI,youtu.be,False
+1193237130786590722,Twitter for Android,JVMPerformance,JVM Performance Channel,Devoxx,Devoxx,https://youtu.be/iwSCtxMbBLI,youtu.be,False
+1192734791260659712,Twitter Web App,JVMPerformance,JVM Performance Channel,cliff_click,Cliff Click,https://www.youtube.com/watch?v=9epgZ-e6DUU,youtube.com,False
+1192734791260659712,Twitter Web App,JVMPerformance,JVM Performance Channel,JUGru,JUG.ru,https://www.youtube.com/watch?v=9epgZ-e6DUU,youtube.com,False
+1191328571853283329,Twitter Web App,JVMPerformance,JVM Performance Channel,BrianGoetz,Brian Goetz,https://www.youtube.com/watch?v=iSEjlLFCS3E,youtube.com,False
+1190191104869703680,Twitter Web App,JVMPerformance,JVM Performance Channel,nitsanw,Nitsan Wakart 👺,https://www.infoq.com/presentations/jctools-algorithms-optimization,infoq.com,False
+1190191104869703680,Twitter Web App,JVMPerformance,JVM Performance Channel,InfoQ,InfoQ,https://www.infoq.com/presentations/jctools-algorithms-optimization,infoq.com,False
+1189536879659618304,Twitter for Android,JVMPerformance,JVM Performance Channel,epickrram,Mark Price,https://www.infoq.com/presentations/low-latency-cloud-oss/,infoq.com,False
+1189536879659618304,Twitter for Android,JVMPerformance,JVM Performance Channel,InfoQ,InfoQ,https://www.infoq.com/presentations/low-latency-cloud-oss/,infoq.com,False
+1188330940088705025,Twitter Web App,JVMPerformance,JVM Performance Channel,poonam_bajaj,Poonam Bajaj Parhar,https://www.youtube.com/watch?v=mc2ZWmOgYDo,youtube.com,False
+1188330940088705025,Twitter Web App,JVMPerformance,JVM Performance Channel,OracleCodeOne,Oracle Code One,https://www.youtube.com/watch?v=mc2ZWmOgYDo,youtube.com,False
+1186740034495483904,Twitter Web App,JVMPerformance,JVM Performance Channel,DavidBuckJP,David Buck,https://www.youtube.com/watch?v=f3sYShgo0zE,youtube.com,False
+1186740034495483904,Twitter Web App,JVMPerformance,JVM Performance Channel,OracleCodeOne,Oracle Code One,https://www.youtube.com/watch?v=f3sYShgo0zE,youtube.com,False
+1186016515759493121,Twitter for Android,JVMPerformance,JVM Performance Channel,graalvm,GraalVM,https://youtu.be/z0jedLjcWjI,youtu.be,False
+1185829301251428352,Twitter Web App,JVMPerformance,JVM Performance Channel,kcpeppe,kcpeppe,https://www.youtube.com/watch?v=E2KYTXKUsT4,youtube.com,False
+1185829301251428352,Twitter Web App,JVMPerformance,JVM Performance Channel,OracleCodeOne,Oracle Code One,https://www.youtube.com/watch?v=E2KYTXKUsT4,youtube.com,False
+1185437073345597441,Twitter for Android,JVMPerformance,JVM Performance Channel,kavya719,kavya joshi,https://youtu.be/M5r-IVxP-WI,youtu.be,False
+1185100235502247936,Twitter Web App,JVMPerformance,JVM Performance Channel,AndreiPangin,Andrei Pangin,https://vimeo.com/364039638,vimeo.com,False
+1185100235502247936,Twitter Web App,JVMPerformance,JVM Performance Channel,GeekOutEE,GeekOut,https://vimeo.com/364039638,vimeo.com,False
+1183461430097600518,Twitter for Android,JVMPerformance,JVM Performance Channel,Google,Google,https://youtu.be/DjOcfkhTZkM,youtu.be,False
+1182193321860575232,Twitter Web App,JVMPerformance,JVM Performance Channel,DavidBuckJP,David Buck,https://www.youtube.com/watch?v=e2zmmkc5xI0,youtube.com,False
+1182193321860575232,Twitter Web App,JVMPerformance,JVM Performance Channel,OracleCodeOne,Oracle Code One,https://www.youtube.com/watch?v=e2zmmkc5xI0,youtube.com,False
+1181463647517843456,Twitter Web App,JVMPerformance,JVM Performance Channel,sanhong_li,San-Hong Li,https://www.youtube.com/watch?v=fzaYsPI6YZw,youtube.com,False
+1181463647517843456,Twitter Web App,JVMPerformance,JVM Performance Channel,kingsumchow,Kingsum Chow,https://www.youtube.com/watch?v=fzaYsPI6YZw,youtube.com,False
+1181463647517843456,Twitter Web App,JVMPerformance,JVM Performance Channel,AlibabaGroup,Alibaba Group,https://www.youtube.com/watch?v=fzaYsPI6YZw,youtube.com,False
+1167125640384012288,Twitter for Android,JVMPerformance,JVM Performance Channel,cl4es,Claes Redestad,https://www.youtube.com/watch?v=ZKSVNaoEUEU,youtube.com,False
+1166636940898242560,Twitter for Android,JVMPerformance,JVM Performance Channel,perliden,Per Liden,https://youtu.be/tShc0dyFtgw,youtu.be,False
+1166636940898242560,Twitter for Android,JVMPerformance,JVM Performance Channel,stekarmatrik,Stefan Karlsson,https://youtu.be/tShc0dyFtgw,youtu.be,False
+1166636940898242560,Twitter for Android,JVMPerformance,JVM Performance Channel,OpenJDK,OpenJDK,https://youtu.be/tShc0dyFtgw,youtu.be,False
+1166592773149089792,Twitter for Android,JVMPerformance,JVM Performance Channel,dinfuehr,dinfuehr,https://dinfuehr.github.io/blog/a-first-look-into-zgc/,dinfuehr.github.io,False
+1166238271317381120,Twitter for Android,JVMPerformance,JVM Performance Channel,stuartmarks,Stuart Marks,https://stuartmarks.wordpress.com/2019/01/11/processing-large-files-in-java,stuartmarks.wordpress.com,False
+1165872992351637504,Twitter for Android,JVMPerformance,JVM Performance Channel,tstuefe,Thomas Stuefe,https://stuefe.de/posts/metaspace/what-is-metaspace/,stuefe.de,False
+1165507286388940800,Twitter for Android,JVMPerformance,JVM Performance Channel,AndreiPangin,Andrei Pangin,https://pangin.pro/posts/stack-overflow-handling,pangin.pro,False
+1165131420819447808,Twitter for Android,JVMPerformance,JVM Performance Channel,kittylyst,Ben Evans,https://skillsmatter.com/skillscasts/12237-fantastic-bytecodes-and-how-to-interpret-them,skillsmatter.com,False
+1164950578298064898,Twitter for Android,JVMPerformance,JVM Performance Channel,fosdem,FOSDEM,https://youtu.be/jsJtZdYhQuE,youtu.be,False
+1164423216871464960,Twitter for Android,JVMPerformance,JVM Performance Channel,arvind_kgs,Arvind Kumar GS,https://www.youtube.com/watch?v=fbpEs51JfdU,youtube.com,False
+1163555550703079424,Twitter Web App,JVMPerformance,JVM Performance Channel,mon_beck,Monica Beckwith,https://chariotsolutions.com/screencast/philly-ete-2019-monica-beckwith-openjdk-in-the-new-age-of-concurrent-garbage-collectors/,chariotsolutions.com,False
+1163555550703079424,Twitter Web App,JVMPerformance,JVM Performance Channel,OpenJDK,OpenJDK,https://chariotsolutions.com/screencast/philly-ete-2019-monica-beckwith-openjdk-in-the-new-age-of-concurrent-garbage-collectors/,chariotsolutions.com,False
+1163366162203336705,Twitter Web App,JVMPerformance,JVM Performance Channel,PeterLawrey,Peter Lawrey,https://www.youtube.com/watch?v=bz1N5qy8w_4,youtube.com,False
+1159726417875259393,Twitter Web App,JVMPerformance,JVM Performance Channel,Google,Google,https://www.youtube.com/watch?v=T_SOhTv6LR8,youtube.com,False
+1159362510153232384,Twitter Web App,JVMPerformance,JVM Performance Channel,snatverk,Juan Fumero,https://www.youtube.com/watch?v=nPlacnadR6k,youtube.com,False
+1157908979735060485,Twitter Web App,JVMPerformance,JVM Performance Channel,iwan0www,Vladimir Ivanov,https://www.youtube.com/watch?v=UlnoCj4B8pU,youtube.com,False
+1157908979735060485,Twitter Web App,JVMPerformance,JVM Performance Channel,JohnRose00,John Rose,https://www.youtube.com/watch?v=UlnoCj4B8pU,youtube.com,False
+1157677769905659906,Twitter Web App,JVMPerformance,JVM Performance Channel,mstoodle,Mark Stoodley,https://www.youtube.com/watch?v=gx8DVVFPkcQ,youtube.com,False
+1157677769905659906,Twitter Web App,JVMPerformance,JVM Performance Channel,openj9,Eclipse OpenJ9,https://www.youtube.com/watch?v=gx8DVVFPkcQ,youtube.com,False
+1156461001828700160,Twitter for Android,JVMPerformance,JVM Performance Channel,graalvm,GraalVM,https://youtu.be/RMtukctD220,youtu.be,False
+1155556158163361792,Twitter Web App,JVMPerformance,JVM Performance Channel,cliff_click,Cliff Click,https://www.youtube.com/watch?v=RtHA1YVLW5Y,youtube.com,False
+1155556158163361792,Twitter Web App,JVMPerformance,JVM Performance Channel,JUGru,JUG.ru,https://www.youtube.com/watch?v=RtHA1YVLW5Y,youtube.com,False
+1154706083904143360,Twitter Web App,JVMPerformance,JVM Performance Channel,jpbempel,Jean-Philippe Bempel,https://www.youtube.com/watch?v=PQ5ykHwXJfA,youtube.com,False
+1154706083904143360,Twitter Web App,JVMPerformance,JVM Performance Channel,GeeCON,GeeCON,https://www.youtube.com/watch?v=PQ5ykHwXJfA,youtube.com,False
+1152964394084720640,Twitter Web Client,JVMPerformance,JVM Performance Channel,aardvark179,Duncan MacGregor,https://www.infoq.com/presentations/graal-jit-c2/,infoq.com,False
+1152964394084720640,Twitter Web Client,JVMPerformance,JVM Performance Channel,graalvm,GraalVM,https://www.infoq.com/presentations/graal-jit-c2/,infoq.com,False
+1152964394084720640,Twitter Web Client,JVMPerformance,JVM Performance Channel,InfoQ,InfoQ,https://www.infoq.com/presentations/graal-jit-c2/,infoq.com,False
+1152881552470265856,Twitter Web App,JVMPerformance,JVM Performance Channel,thomaswue,Thomas Wuerthinger,https://www.infoq.com/podcasts/graalvm-optimizing-java/,infoq.com,False
+1152881552470265856,Twitter Web App,JVMPerformance,JVM Performance Channel,InfoQ,InfoQ,https://www.infoq.com/podcasts/graalvm-optimizing-java/,infoq.com,False
+1152881552470265856,Twitter Web App,JVMPerformance,JVM Performance Channel,graalvm,GraalVM,https://www.infoq.com/podcasts/graalvm-optimizing-java/,infoq.com,False
+1152619336965734400,Twitter Web Client,JVMPerformance,JVM Performance Channel,heinzkabutz,Heinz Kabutz,https://www.youtube.com/watch?v=DcLQm2EpDI0,youtube.com,False
+1152619336965734400,Twitter Web Client,JVMPerformance,JVM Performance Channel,DevoxxUK,DevoxxUK,https://www.youtube.com/watch?v=DcLQm2EpDI0,youtube.com,False
+1150833832251314177,Twitter for Android,JVMPerformance,JVM Performance Channel,hirt,Marcus Hirt,http://hirt.se/blog/?p=1055,hirt.se,False
+1150151813989109760,Twitter for Android,JVMPerformance,JVM Performance Channel,graalvm,GraalVM,https://youtu.be/wwEVakQzVAw,youtu.be,False
+1150151813989109760,Twitter for Android,JVMPerformance,JVM Performance Channel,oraclelabs,Oracle Labs,https://youtu.be/wwEVakQzVAw,youtu.be,False
+1149750124647714816,Twitter Web Client,JVMPerformance,JVM Performance Channel,heinzkabutz,Heinz Kabutz,https://www.youtube.com/watch?v=Xro4KwoMNJ8,youtube.com,False
+1149750124647714816,Twitter Web Client,JVMPerformance,JVM Performance Channel,OracleCodeOne,Oracle Code One,https://www.youtube.com/watch?v=Xro4KwoMNJ8,youtube.com,False
+1147775665875378176,Twitter Web App,JVMPerformance,JVM Performance Channel,diegoelias_1,Diego Elias Costa,https://www.researchgate.net/publication/333825812_What's_Wrong_With_My_Benchmark_Results_Studying_Bad_Practices_in_JMH_Benchmarks,researchgate.net,False
+1147775665875378176,Twitter Web App,JVMPerformance,JVM Performance Channel,xLeitix,Philipp Leitner,https://www.researchgate.net/publication/333825812_What's_Wrong_With_My_Benchmark_Results_Studying_Bad_Practices_in_JMH_Benchmarks,researchgate.net,False
+1147775665875378176,Twitter Web App,JVMPerformance,JVM Performance Channel,corpaul,Cor-Paul Bezemer,https://www.researchgate.net/publication/333825812_What's_Wrong_With_My_Benchmark_Results_Studying_Bad_Practices_in_JMH_Benchmarks,researchgate.net,False
+1147775665875378176,Twitter Web App,JVMPerformance,JVM Performance Channel,java,Java,https://www.researchgate.net/publication/333825812_What's_Wrong_With_My_Benchmark_Results_Studying_Bad_Practices_in_JMH_Benchmarks,researchgate.net,False
+1147773349587816448,Twitter Web App,JVMPerformance,JVM Performance Channel,kcpeppe,kcpeppe,https://www.recallact.com/ZwD,recallact.com,False
+1147773349587816448,Twitter Web App,JVMPerformance,JVM Performance Channel,java,Java,https://www.recallact.com/ZwD,recallact.com,False
+1140157373803368448,Twitter Web Client,JVMPerformance,JVM Performance Channel,ionutbalosin,Ionut Balosin,https://www.youtube.com/watch?v=lunJmMBkqLo,youtube.com,False
+1140157373803368448,Twitter Web Client,JVMPerformance,JVM Performance Channel,graalvm,GraalVM,https://www.youtube.com/watch?v=lunJmMBkqLo,youtube.com,False
+1131184457619267584,Twitter Web Client,JVMPerformance,JVM Performance Channel,RichardWarburto,Richard Warburton🥓,https://www.youtube.com/watch?v=JfpusAlLytg,youtube.com,False
+1131184457619267584,Twitter Web Client,JVMPerformance,JVM Performance Channel,DevoxxUK,DevoxxUK,https://www.youtube.com/watch?v=JfpusAlLytg,youtube.com,False
+1127955741158060034,Twitter Web Client,JVMPerformance,JVM Performance Channel,cl4es,Claes Redestad,https://www.youtube.com/watch?v=3r_tHGtpU7A,youtube.com,False
+1127955741158060034,Twitter Web Client,JVMPerformance,JVM Performance Channel,java,Java,https://www.youtube.com/watch?v=3r_tHGtpU7A,youtube.com,False
+1127955156652498944,Twitter Web Client,JVMPerformance,JVM Performance Channel,cliff_click,Cliff Click,https://www.youtube.com/watch?v=5ZOuCuGrw48,youtube.com,False
+1127955156652498944,Twitter Web Client,JVMPerformance,JVM Performance Channel,java,Java,https://www.youtube.com/watch?v=5ZOuCuGrw48,youtube.com,False
+1123469688581783553,Twitter Web App,JVMPerformance,JVM Performance Channel,graalvm,GraalVM,https://www.researchgate.net/publication/331408280_An_Optimization-Driven_Incremental_Inline_Substitution_Algorithm_for_Just-in-Time_Compilers,researchgate.net,False
+1123469688581783553,Twitter Web App,JVMPerformance,JVM Performance Channel,thomaswue,Thomas Wuerthinger,https://www.researchgate.net/publication/331408280_An_Optimization-Driven_Incremental_Inline_Substitution_Algorithm_for_Just-in-Time_Compilers,researchgate.net,False
+1123469688581783553,Twitter Web App,JVMPerformance,JVM Performance Channel,alexprokopec,Aleksandar Prokopec,https://www.researchgate.net/publication/331408280_An_Optimization-Driven_Incremental_Inline_Substitution_Algorithm_for_Just-in-Time_Compilers,researchgate.net,False
+1123469688581783553,Twitter Web App,JVMPerformance,JVM Performance Channel,davleopo,David Leopoldseder,https://www.researchgate.net/publication/331408280_An_Optimization-Driven_Incremental_Inline_Substitution_Algorithm_for_Just-in-Time_Compilers,researchgate.net,False
+1123469688581783553,Twitter Web App,JVMPerformance,JVM Performance Channel,WoodenGil,Gilles Duboscq,https://www.researchgate.net/publication/331408280_An_Optimization-Driven_Incremental_Inline_Substitution_Algorithm_for_Just-in-Time_Compilers,researchgate.net,False
+1123469688581783553,Twitter Web App,JVMPerformance,JVM Performance Channel,java,Java,https://www.researchgate.net/publication/331408280_An_Optimization-Driven_Incremental_Inline_Substitution_Algorithm_for_Just-in-Time_Compilers,researchgate.net,False
+1121743119538688000,Twitter Web App,JVMPerformance,JVM Performance Channel,nitsanw,Nitsan Wakart 👺,https://www.infoq.com/presentations/future-of-performance,infoq.com,False
+1121743119538688000,Twitter Web App,JVMPerformance,JVM Performance Channel,mon_beck,Monica Beckwith,https://www.infoq.com/presentations/future-of-performance,infoq.com,False
+1121743119538688000,Twitter Web App,JVMPerformance,JVM Performance Channel,mjpt777,Martin Thompson,https://www.infoq.com/presentations/future-of-performance,infoq.com,False
+1121743119538688000,Twitter Web App,JVMPerformance,JVM Performance Channel,hyc_symas,Howard Chu,https://www.infoq.com/presentations/future-of-performance,infoq.com,False
+1121743119538688000,Twitter Web App,JVMPerformance,JVM Performance Channel,sadiqj,Sadiq Jaffer,https://www.infoq.com/presentations/future-of-performance,infoq.com,False
+1115878803723771905,Twitter Web Client,JVMPerformance,JVM Performance Channel,ionutbalosin,Ionut Balosin,https://ionutbalosin.com/2019/04/jvm-jit-compilers-benchmarks-report-19-04/,ionutbalosin.com,True
+1115878803723771905,Twitter Web Client,JVMPerformance,JVM Performance Channel,java,Java,https://ionutbalosin.com/2019/04/jvm-jit-compilers-benchmarks-report-19-04/,ionutbalosin.com,True
+1101761431173824512,Twitter Web App,JVMPerformance,JVM Performance Channel,cl4es,Claes Redestad,https://cl4es.github.io/2019/02/21/Cljinit-Woes.html,cl4es.github.io,False
+1101761431173824512,Twitter Web App,JVMPerformance,JVM Performance Channel,java,Java,https://cl4es.github.io/2019/02/21/Cljinit-Woes.html,cl4es.github.io,False
+1101760927727271939,Twitter Web App,JVMPerformance,JVM Performance Channel,AndreiPangin,Andrei Pangin,https://pangin.pro/posts/computation-in-static-initializer,pangin.pro,False
+1101760927727271939,Twitter Web App,JVMPerformance,JVM Performance Channel,java,Java,https://pangin.pro/posts/computation-in-static-initializer,pangin.pro,False
+1101054049774985216,Twitter Web Client,JVMPerformance,JVM Performance Channel,DanHeidinga,Dan Heidinga,https://www.youtube.com/watch?v=knPSQyUtM4I,youtube.com,False
+1101054049774985216,Twitter Web Client,JVMPerformance,JVM Performance Channel,PaulSandoz,Paul Sandoz,https://www.youtube.com/watch?v=knPSQyUtM4I,youtube.com,False
+1097819431395385344,Twitter Web Client,JVMPerformance,JVM Performance Channel,volker_simonis,Volker Simonis,https://www.youtube.com/watch?v=NhkLHyz_tN8,youtube.com,False
+1097819431395385344,Twitter Web Client,JVMPerformance,JVM Performance Channel,javaperftuning,Kirk Pepperdine,https://www.youtube.com/watch?v=NhkLHyz_tN8,youtube.com,False
+1097819431395385344,Twitter Web Client,JVMPerformance,JVM Performance Channel,java,Java,https://www.youtube.com/watch?v=NhkLHyz_tN8,youtube.com,False
+1091616022803681280,Twitter Web Client,JVMPerformance,JVM Performance Channel,BrianGoetz,Brian Goetz,https://www.youtube.com/watch?v=4r2Wg-TY7gU,youtube.com,False
+1091616022803681280,Twitter Web Client,JVMPerformance,JVM Performance Channel,Devoxx,Devoxx,https://www.youtube.com/watch?v=4r2Wg-TY7gU,youtube.com,False
+1081101774428274688,Twitter Web Client,JVMPerformance,JVM Performance Channel,openj9,Eclipse OpenJ9,https://blog.openj9.org/2018/10/10/intro-to-ahead-of-time-compilation,blog.openj9.org,False
+1081101774428274688,Twitter Web Client,JVMPerformance,JVM Performance Channel,java,Java,https://blog.openj9.org/2018/10/10/intro-to-ahead-of-time-compilation,blog.openj9.org,False
+1080838376473985024,Twitter Web Client,JVMPerformance,JVM Performance Channel,javaperftuning,Kirk Pepperdine,https://www.youtube.com/watch?v=dx6V5HD14D0,youtube.com,False
+1080838376473985024,Twitter Web Client,JVMPerformance,JVM Performance Channel,JavaPerformance,Java Performance,https://www.youtube.com/watch?v=dx6V5HD14D0,youtube.com,False
+1080838376473985024,Twitter Web Client,JVMPerformance,JVM Performance Channel,java,Java,https://www.youtube.com/watch?v=dx6V5HD14D0,youtube.com,False
+1079797479372144641,Twitter for Android,JVMPerformance,JVM Performance Channel,no mentions,no mentions,no link,no link,False
+1079292715173593088,Twitter Web Client,JVMPerformance,JVM Performance Channel,mjpt777,Martin Thompson,https://www.infoq.com/presentations/top-10-performance-myths,infoq.com,False
+1079292715173593088,Twitter Web Client,JVMPerformance,JVM Performance Channel,InfoQ,InfoQ,https://www.infoq.com/presentations/top-10-performance-myths,infoq.com,False
+1079292715173593088,Twitter Web Client,JVMPerformance,JVM Performance Channel,java,Java,https://www.infoq.com/presentations/top-10-performance-myths,infoq.com,False
+1078935132168507392,Twitter Web Client,JVMPerformance,JVM Performance Channel,kuksenk0,Sergey Kuksenko,https://www.youtube.com/watch?v=i9No3Jw8vew,youtube.com,False
+1078935132168507392,Twitter Web Client,JVMPerformance,JVM Performance Channel,java,Java,https://www.youtube.com/watch?v=i9No3Jw8vew,youtube.com,False
+1078585907450703872,Twitter Web Client,JVMPerformance,JVM Performance Channel,cl4es,Claes Redestad,https://cl4es.github.io/2018/11/29/OpenJDK-Startup-From-8-Through-11.html,cl4es.github.io,False
+1078305044326436864,Twitter Web Client,JVMPerformance,JVM Performance Channel,DanielShaya,Daniel Shaya,https://www.youtube.com/watch?v=BD9cRbxWQx8,youtube.com,False
+1075414561363292161,Twitter Web Client,JVMPerformance,JVM Performance Channel,JohnWings,Iván Krȳlov,https://www.youtube.com/watch?v=O9pO8o3V6eQ,youtube.com,False
+1075414561363292161,Twitter Web Client,JVMPerformance,JVM Performance Channel,AzulSystems,Azul Systems,https://www.youtube.com/watch?v=O9pO8o3V6eQ,youtube.com,False
+1075414561363292161,Twitter Web Client,JVMPerformance,JVM Performance Channel,java,Java,https://www.youtube.com/watch?v=O9pO8o3V6eQ,youtube.com,False
+1074240082670956545,Twitter Web Client,JVMPerformance,JVM Performance Channel,christhalinger,Chris Thalinger,https://www.youtube.com/watch?v=6Q2TP-QO4SU,youtube.com,False
+1074240082670956545,Twitter Web Client,JVMPerformance,JVM Performance Channel,Twitter,Twitter,https://www.youtube.com/watch?v=6Q2TP-QO4SU,youtube.com,False
+1072782352668090368,Twitter Web Client,JVMPerformance,JVM Performance Channel,volker_simonis,Volker Simonis,https://www.youtube.com/watch?v=aFW5MldjAFo,youtube.com,False
+1072782352668090368,Twitter Web Client,JVMPerformance,JVM Performance Channel,JUGru,JUG.ru,https://www.youtube.com/watch?v=aFW5MldjAFo,youtube.com,False
+1072149211519614976,Twitter Web Client,JVMPerformance,JVM Performance Channel,shipilev,Aleksey Shipilëv,https://www.youtube.com/watch?v=TK-7GCCDF_I,youtube.com,False
+1072149211519614976,Twitter Web Client,JVMPerformance,JVM Performance Channel,GeeCON,GeeCON,https://www.youtube.com/watch?v=TK-7GCCDF_I,youtube.com,False
+1071360843592404992,Twitter Web Client,JVMPerformance,JVM Performance Channel,iwan0www,Vladimir Ivanov,https://www.youtube.com/watch?v=YA9wfTrBr_4,youtube.com,False
+1070949774663266304,Twitter Web Client,JVMPerformance,JVM Performance Channel,heinzkabutz,Heinz Kabutz,https://www.youtube.com/watch?v=Xro4KwoMNJ8,youtube.com,False
+1070587046908039170,Twitter Web Client,JVMPerformance,JVM Performance Channel,hirt,Marcus Hirt,https://www.youtube.com/watch?v=Pqf367x-OuA,youtube.com,False
+1070236294599634944,Twitter Web Client,JVMPerformance,JVM Performance Channel,chriswhocodes,Chris Newland,https://github.com/AdoptOpenJDK/jitwatch,github.com,False
+1070234477627105280,Twitter Web Client,JVMPerformance,JVM Performance Channel,RichardWarburto,Richard Warburton🥓,https://www.youtube.com/watch?v=LOWBXELEh0o,youtube.com,False
+1069863842010882048,Twitter Web App,JVMPerformance,JVM Performance Channel,kuksenk0,Sergey Kuksenko,https://www.youtube.com/watch?v=BTIcja5xcK0,youtube.com,False
+1069587640457011200,Twitter Web Client,JVMPerformance,JVM Performance Channel,OracleCodeOne,Oracle Code One,https://www.youtube.com/watch?v=nniYSR4GAH4,youtube.com,False
+1069584291955449858,Twitter Web Client,JVMPerformance,JVM Performance Channel,jpbempel,Jean-Philippe Bempel,https://groups.google.com/forum/#!msg/mechanical-sympathy/Nhy-_trkLOc/gacpaRFpAAAJ,groups.google.com,False
+1069584291955449858,Twitter Web Client,JVMPerformance,JVM Performance Channel,giltene,Gil Tene,https://groups.google.com/forum/#!msg/mechanical-sympathy/Nhy-_trkLOc/gacpaRFpAAAJ,groups.google.com,False
+1069504176709873664,Twitter Web Client,JVMPerformance,JVM Performance Channel,no mentions,no mentions,https://www.youtube.com/watch?v=1zUy0VSl6yA,youtube.com,False
+1069136706840993793,Twitter Web App,JVMPerformance,JVM Performance Channel,perliden,Per Liden,https://www.youtube.com/watch?v=kF_r3GE3zOo,youtube.com,False
+1069136500246360066,Twitter Web App,JVMPerformance,JVM Performance Channel,goldshtn,Sasha Goldshtein,https://www.youtube.com/watch?v=vD9o219Z13k,youtube.com,False
+1068798665492443136,Twitter Web App,JVMPerformance,JVM Performance Channel,shelajev,Oleg Šelajev,https://www.youtube.com/watch?v=50JxcnvJjMQ,youtube.com,False
+1068798665492443136,Twitter Web App,JVMPerformance,JVM Performance Channel,thomaswue,Thomas Wuerthinger,https://www.youtube.com/watch?v=50JxcnvJjMQ,youtube.com,False
+1068798179246780422,Twitter Web App,JVMPerformance,JVM Performance Channel,chbatey,Christopher Batey,http://www.batey.info/docker-jvm-k8s.html,batey.info,False
+1068389109440356352,Twitter for Android,JVMPerformance,JVM Performance Channel,JohnWings,Iván Krȳlov,https://www.youtube.com/watch?v=pttHKy-7vcI,youtube.com,False
+1068388465971216385,Twitter for Android,JVMPerformance,JVM Performance Channel,dougqh,Douglas Hawkins,https://www.youtube.com/watch?v=zdz_pf22nOI,youtube.com,False
+1068237313946324994,Twitter for Android,JVMPerformance,JVM Performance Channel,kittylyst,Ben Evans,no link,no link,False
+1068237313946324994,Twitter for Android,JVMPerformance,JVM Performance Channel,chriswhocodes,Chris Newland,no link,no link,False
+1068237313946324994,Twitter for Android,JVMPerformance,JVM Performance Channel,OptimizingJava,Optimizing Java,no link,no link,False
+1068235810984611840,Twitter for Android,JVMPerformance,JVM Performance Channel,epickrram,Mark Price,https://www.youtube.com/watch?v=4fKSgc7Qjj4,youtube.com,False
+1068100156791406592,Twitter for Android,JVMPerformance,JVM Performance Channel,PeterLawrey,Peter Lawrey,https://stackoverflow.com/questions/52436675/in-java-how-much-memory-is-allocated-on-stack-and-heap-for-new-object/52437105?stw=2#52437105,stackoverflow.com,False
+1068028546646446080,Twitter for Android,JVMPerformance,JVM Performance Channel,shipilev,Aleksey Shipilëv,https://shipilev.net/jvm-anatomy-park/21-heap-uncommit/,shipilev.net,False
+1068027256440844289,Twitter for Android,JVMPerformance,JVM Performance Channel,rafaelcodes,Rafael Winterhalter,http://mydailyjava.blogspot.com/2018/08/hands-on-constantdynamic-class-file.html?m=1,mydailyjava.blogspot.com,False
+1068026674959327232,Twitter for Android,JVMPerformance,JVM Performance Channel,cliff_click,Cliff Click,https://www.quora.com/How-exactly-does-the-JVMs-invokedynamic-instruction-work/answer/Cliff-Click-1,quora.com,False
+1067918655449645057,Twitter for Android,JVMPerformance,JVM Performance Channel,jpbempel,Jean-Philippe Bempel,http://jpbempel.blogspot.com/2016/03/compilecommand-jvm-option.html?m=1,jpbempel.blogspot.com,False
+1067918245368348672,Twitter for Android,JVMPerformance,JVM Performance Channel,nitsanw,Nitsan Wakart 👺,http://psy-lob-saw.blogspot.com/2018/07/how-inlined-code-confusing-profiles.html?m=1,psy-lob-saw.blogspot.com,False
